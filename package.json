@@ -1,6 +1,6 @@
 {
-	"author": "Kioshi Kiyan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kioshi Kiyan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
